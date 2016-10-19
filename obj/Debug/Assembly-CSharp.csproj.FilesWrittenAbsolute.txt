@@ -1,0 +1,13 @@
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/UnityEngine.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/UnityEditor.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jeremy.shefer/Text101/Temp/bin/Debug/Mono.Cecil.Mdb.dll
